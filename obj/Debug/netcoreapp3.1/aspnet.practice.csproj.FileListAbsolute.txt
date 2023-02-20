@@ -1,0 +1,16 @@
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\bin\Debug\netcoreapp3.1\aspnet.practice.exe
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\bin\Debug\netcoreapp3.1\aspnet.practice.deps.json
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\bin\Debug\netcoreapp3.1\aspnet.practice.runtimeconfig.json
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\bin\Debug\netcoreapp3.1\aspnet.practice.runtimeconfig.dev.json
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\bin\Debug\netcoreapp3.1\aspnet.practice.dll
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\bin\Debug\netcoreapp3.1\aspnet.practice.pdb
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\obj\Debug\netcoreapp3.1\aspnet.practice.csproj.AssemblyReference.cache
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\obj\Debug\netcoreapp3.1\aspnet.practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\obj\Debug\netcoreapp3.1\aspnet.practice.AssemblyInfoInputs.cache
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\obj\Debug\netcoreapp3.1\aspnet.practice.AssemblyInfo.cs
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\obj\Debug\netcoreapp3.1\aspnet.practice.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\obj\Debug\netcoreapp3.1\aspnet.practice.dll
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\obj\Debug\netcoreapp3.1\aspnet.practice.pdb
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\obj\Debug\netcoreapp3.1\aspnet.practice.genruntimeconfig.cache
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Togrul\Desktop\Backend\aspnet.practice\aspnet.practice\obj\Debug\netcoreapp3.1\aspnet.practice.csproj.CopyComplete

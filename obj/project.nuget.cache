@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pjmcNHxFTQhBT0Yoylbbm7Nein3uwN75lIgf83fDCd0PYZ7Rt9ThC3TSknt8aPntKeGWrnNi85RBHyGF0sGN9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Togrul\\Desktop\\asp-net1\\aspnet.practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Togrul\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
